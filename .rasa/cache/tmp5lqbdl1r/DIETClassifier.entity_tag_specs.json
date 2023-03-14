@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-science",
+      "2": "I-science",
+      "3": "L-science",
+      "4": "U-science",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-science": 1,
+      "I-science": 2,
+      "L-science": 3,
+      "U-science": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

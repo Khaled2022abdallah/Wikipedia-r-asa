@@ -1,0 +1,6 @@
+[
+  {
+    "name": "science",
+    "pattern": "(\\bmathematics\\b|\\bgeology\\b|\\bchemistry\\b|\\bphilosophy\\b|\\bphysics\\b|\\bdata\\ science\\b|\\bartificial\\ intelligence\\b|\\btheology\\b|\\bmedicine\\b)"
+  }
+]

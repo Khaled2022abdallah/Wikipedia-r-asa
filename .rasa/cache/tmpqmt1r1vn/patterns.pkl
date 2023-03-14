@@ -1,0 +1,10 @@
+[
+  {
+    "name": "science",
+    "pattern": "(\\bmathematics\\b|\\bgeology\\b|\\bchemistry\\b|\\bphilosophy\\b|\\bphysics\\b|\\bdata\\ science\\b|\\bartificial\\ intelligence\\b|\\btheology\\b|\\bmedicine\\b)"
+  },
+  {
+    "name": "search_wikipedia",
+    "pattern": "(\\bWhat\\ is\\ the\\ capital\\ of\\ France\\ according\\ to\\ Wikipedia\\?\\b|\\bCan\\ you\\ tell\\ me\\ about\\ Barack\\ Obama\\ on\\ Wikipedia\\?\\b|\\bGive\\ me\\ some\\ information\\ on\\ the\\ Great\\ Barrier\\ Reef\\ from\\ Wikipedia\\b)"
+  }
+]
